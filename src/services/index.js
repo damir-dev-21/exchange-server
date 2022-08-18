@@ -1,13 +1,13 @@
 const NodeCron = require('cron').CronJob
 const fs = require('fs')
 const bankDb = require('../models/Bank.mongo')
-const browserObject = require('./browser') 
+const browserObject = require('./browser')
 const scrapperController = require('./pageController')
 
-function readAndSetData(){
+function readAndSetData() {
     try {
-        fs.readFile('data/data.json','utf-8',async (err,data)=>{
-            if(err){
+        fs.readFile('data/data.json', 'utf-8', async (err, data) => {
+            if (err) {
                 throw err
             }
 
@@ -16,21 +16,19 @@ function readAndSetData(){
 
         })
     } catch (error) {
-            console.log(error);
+        console.log(error);
     }
 }
 
-function startScrap(){
-    // const job = new NodeCron("0 8 * * *", function(){
-    //     console.log(new Date());
-       
-    // })
-    let browserInstance = browserObject.startBrowser()
-    scrapperController(browserInstance)
-    readAndSetData()
+function startScrap() {
+    const job = new NodeCron("0 8 * * *", function () {
+        console.log(new Date());
+        let browserInstance = browserObject.startBrowser()
+        scrapperController(browserInstance)
+        readAndSetData()
+    })
 
-    //job.start()
-
+    job.start()
 }
 
 // startScrap()
