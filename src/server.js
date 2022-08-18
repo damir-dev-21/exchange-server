@@ -4,7 +4,7 @@ const {startScrap} = require('./services/index')
 const app = require('./index')
 require('dotenv').config()
 
-const PORT = process.env.PORT || 8000
+const PORT = 8010
 const MONGO_URL = process.env.MONGO_URL
 
 const server = http.createServer(app)
