@@ -1,0 +1,863 @@
+{
+    "date": "2022-08-08",
+    "results": [
+        {
+            "exchange": "USD",
+            "banks": [
+                {
+                    "exchange": "USD",
+                    "bank": "Пойтахт банк",
+                    "buy": 10910,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Asia Alliance Bank",
+                    "buy": 10910,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Турон банк",
+                    "buy": 10910,
+                    "sale": 10975
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Ипотека банк",
+                    "buy": 10900,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Инфинбанк",
+                    "buy": 10900,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Агробанк",
+                    "buy": 10900,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Анор банк",
+                    "buy": 10900,
+                    "sale": 10975
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Hamkorbank",
+                    "buy": 10890,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Давр банк",
+                    "buy": 10890,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Микрокредитбанк",
+                    "buy": 10890,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Капиталбанк",
+                    "buy": 10890,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Узпромстройбанк",
+                    "buy": 10885,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "НБУ",
+                    "buy": 10885,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Garant Bank (Savdogarbank)",
+                    "buy": 10885,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Кишлок курилиш банк",
+                    "buy": 10880,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Tenge Bank",
+                    "buy": 10880,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Трастбанк",
+                    "buy": 10880,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Универсал банк",
+                    "buy": 10880,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Асакабанк",
+                    "buy": 10880,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Узагроэкспортбанк",
+                    "buy": 10870,
+                    "sale": 11015
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Hi-Tech Bank",
+                    "buy": 10870,
+                    "sale": 10975
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Народный банк",
+                    "buy": 10870,
+                    "sale": 10975
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Алокабанк",
+                    "buy": 10860,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Ипак Йули Банк",
+                    "buy": 10850,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Ravnaq-bank",
+                    "buy": 10850,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Мадад Инвест Банк",
+                    "buy": 10850,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Садерат Банк",
+                    "buy": 10850,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Ziraat Bank",
+                    "buy": 10840,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "КДБ Банк Узбекистан",
+                    "buy": 10830,
+                    "sale": 10940
+                },
+                {
+                    "exchange": "USD",
+                    "bank": "Ориент Финанс Банк",
+                    "buy": 10830,
+                    "sale": 10940
+                }
+            ]
+        },
+        {
+            "exchange": "RUB",
+            "banks": [
+                {
+                    "exchange": "RUB",
+                    "bank": "Asia Alliance Bank",
+                    "buy": 162,
+                    "sale": 202
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Капиталбанк",
+                    "buy": 156,
+                    "sale": 182
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Ипак Йули Банк",
+                    "buy": 155,
+                    "sale": 190
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Трастбанк",
+                    "buy": 150,
+                    "sale": 181
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Garant Bank (Savdogarbank)",
+                    "buy": 150,
+                    "sale": 190
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "НБУ",
+                    "buy": 145,
+                    "sale": 190
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Асакабанк",
+                    "buy": 140,
+                    "sale": 200
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Инфинбанк",
+                    "buy": 140,
+                    "sale": 190
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Ziraat Bank",
+                    "buy": 140,
+                    "sale": 200
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Tenge Bank",
+                    "buy": 135,
+                    "sale": 185
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Пойтахт банк",
+                    "buy": 135,
+                    "sale": 200
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Hamkorbank",
+                    "buy": 135,
+                    "sale": 181
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Кишлок курилиш банк",
+                    "buy": 130,
+                    "sale": 195
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Узпромстройбанк",
+                    "buy": 130,
+                    "sale": 185
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Микрокредитбанк",
+                    "buy": 130,
+                    "sale": 175
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Ориент Финанс Банк",
+                    "buy": 125,
+                    "sale": 190
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Турон банк",
+                    "buy": 125,
+                    "sale": 187
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Ипотека банк",
+                    "buy": 121,
+                    "sale": 173
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Мадад Инвест Банк",
+                    "buy": 120,
+                    "sale": 185
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "КДБ Банк Узбекистан",
+                    "buy": 120,
+                    "sale": 205
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Узагроэкспортбанк",
+                    "buy": 120,
+                    "sale": 200
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Давр банк",
+                    "buy": 115,
+                    "sale": 189
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Народный банк",
+                    "buy": 112,
+                    "sale": 182
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Агробанк",
+                    "buy": 110,
+                    "sale": 181
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Hi-Tech Bank",
+                    "buy": 110,
+                    "sale": 200
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Анор банк",
+                    "buy": 110,
+                    "sale": 182
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Ravnaq-bank",
+                    "buy": 110,
+                    "sale": 185
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Универсал банк",
+                    "buy": 110,
+                    "sale": 181
+                },
+                {
+                    "exchange": "RUB",
+                    "bank": "Алокабанк",
+                    "buy": 110,
+                    "sale": 181
+                }
+            ]
+        },
+        {
+            "exchange": "EUR",
+            "banks": [
+                {
+                    "exchange": "EUR",
+                    "bank": "Asia Alliance Bank",
+                    "buy": 10910,
+                    "sale": 11550
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Трастбанк",
+                    "buy": 10900,
+                    "sale": 11600
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Узпромстройбанк",
+                    "buy": 10900,
+                    "sale": 11500
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Tenge Bank",
+                    "buy": 10900,
+                    "sale": 11600
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Турон банк",
+                    "buy": 10900,
+                    "sale": 12000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Микрокредитбанк",
+                    "buy": 10900,
+                    "sale": 12000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Асакабанк",
+                    "buy": 10850,
+                    "sale": 12000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Ипак Йули Банк",
+                    "buy": 10700,
+                    "sale": 11600
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Garant Bank (Savdogarbank)",
+                    "buy": 10700,
+                    "sale": 11585
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Ипотека банк",
+                    "buy": 10650,
+                    "sale": 11400
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Агробанк",
+                    "buy": 10600,
+                    "sale": 11500
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Ravnaq-bank",
+                    "buy": 10600,
+                    "sale": 11700
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Капиталбанк",
+                    "buy": 10600,
+                    "sale": 11550
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Народный банк",
+                    "buy": 10600,
+                    "sale": 11600
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Мадад Инвест Банк",
+                    "buy": 10600,
+                    "sale": 11900
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Универсал банк",
+                    "buy": 10600,
+                    "sale": 13000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Hamkorbank",
+                    "buy": 10600,
+                    "sale": 11400
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Ziraat Bank",
+                    "buy": 10580,
+                    "sale": 11690
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Алокабанк",
+                    "buy": 10500,
+                    "sale": 11800
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Пойтахт банк",
+                    "buy": 10500,
+                    "sale": 12300
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "НБУ",
+                    "buy": 10500,
+                    "sale": 11700
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "КДБ Банк Узбекистан",
+                    "buy": 10250,
+                    "sale": 12000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Инфинбанк",
+                    "buy": 10200,
+                    "sale": 12000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Узагроэкспортбанк",
+                    "buy": 10200,
+                    "sale": 12100
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Давр банк",
+                    "buy": 10150,
+                    "sale": 11850
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Садерат Банк",
+                    "buy": 10000,
+                    "sale": 12000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Ориент Финанс Банк",
+                    "buy": 10000,
+                    "sale": 13000
+                },
+                {
+                    "exchange": "EUR",
+                    "bank": "Анор банк",
+                    "buy": 10000,
+                    "sale": 11500
+                }
+            ]
+        },
+        {
+            "exchange": "GBP",
+            "banks": [
+                {
+                    "exchange": "GBP",
+                    "bank": "НБУ",
+                    "buy": 13000,
+                    "sale": 14000
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Узпромстройбанк",
+                    "buy": 13000,
+                    "sale": 13700
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Asia Alliance Bank",
+                    "buy": 12900,
+                    "sale": 13600
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Турон банк",
+                    "buy": 12900,
+                    "sale": 14000
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Ипак Йули Банк",
+                    "buy": 12800,
+                    "sale": 13800
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Tenge Bank",
+                    "buy": 12700,
+                    "sale": 13700
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Garant Bank (Savdogarbank)",
+                    "buy": 12700,
+                    "sale": 13740
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Алокабанк",
+                    "buy": 12700,
+                    "sale": 13700
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Ипотека банк",
+                    "buy": 12600,
+                    "sale": 13450
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Капиталбанк",
+                    "buy": 12600,
+                    "sale": 13750
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Трастбанк",
+                    "buy": 12600,
+                    "sale": 13600
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Микрокредитбанк",
+                    "buy": 12600,
+                    "sale": 13700
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Универсал банк",
+                    "buy": 12500,
+                    "sale": 15000
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Hamkorbank",
+                    "buy": 12500,
+                    "sale": 13900
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Асакабанк",
+                    "buy": 12500,
+                    "sale": 13900
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Народный банк",
+                    "buy": 12400,
+                    "sale": 14000
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Давр банк",
+                    "buy": 12200,
+                    "sale": 14500
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Агробанк",
+                    "buy": 12200,
+                    "sale": 13600
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Анор банк",
+                    "buy": 12000,
+                    "sale": 13600
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Ravnaq-bank",
+                    "buy": 12000,
+                    "sale": 14000
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Садерат Банк",
+                    "buy": 12000,
+                    "sale": 15500
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Пойтахт банк",
+                    "buy": 12000,
+                    "sale": 14500
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Ориент Финанс Банк",
+                    "buy": 12000,
+                    "sale": 14500
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Ziraat Bank",
+                    "buy": 11890,
+                    "sale": 13870
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Узагроэкспортбанк",
+                    "buy": 11800,
+                    "sale": 13900
+                },
+                {
+                    "exchange": "GBP",
+                    "bank": "Инфинбанк",
+                    "buy": 11500,
+                    "sale": 14000
+                }
+            ]
+        },
+        {
+            "exchange": "JPY",
+            "banks": [
+                {
+                    "exchange": "JPY",
+                    "bank": "Tenge Bank",
+                    "buy": 90,
+                    "sale": 99
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Ипак Йули Банк",
+                    "buy": 79,
+                    "sale": 85
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Hamkorbank",
+                    "buy": 78,
+                    "sale": 86
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Микрокредитбанк",
+                    "buy": 77,
+                    "sale": 90
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Garant Bank (Savdogarbank)",
+                    "buy": 77,
+                    "sale": 88
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Asia Alliance Bank",
+                    "buy": 76,
+                    "sale": 86
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Узпромстройбанк",
+                    "buy": 76,
+                    "sale": 87
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Универсал банк",
+                    "buy": 75,
+                    "sale": 105
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Давр банк",
+                    "buy": 75,
+                    "sale": 90
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Ориент Финанс Банк",
+                    "buy": 75,
+                    "sale": 85
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Мадад Инвест Банк",
+                    "buy": 75,
+                    "sale": 95
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Пойтахт банк",
+                    "buy": 75,
+                    "sale": 110
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Агробанк",
+                    "buy": 71,
+                    "sale": 91
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "НБУ",
+                    "buy": 70,
+                    "sale": 95
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Алокабанк",
+                    "buy": 70,
+                    "sale": 90
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Асакабанк",
+                    "buy": 70,
+                    "sale": 90
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Трастбанк",
+                    "buy": 65,
+                    "sale": 85
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Садерат Банк",
+                    "buy": 65,
+                    "sale": 98
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Турон банк",
+                    "buy": 60,
+                    "sale": 120
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Инфинбанк",
+                    "buy": 50,
+                    "sale": 100
+                },
+                {
+                    "exchange": "JPY",
+                    "bank": "Ravnaq-bank",
+                    "buy": 50,
+                    "sale": 110
+                }
+            ]
+        },
+        {
+            "exchange": "KZT",
+            "banks": [
+                {
+                    "exchange": "KZT",
+                    "bank": "Tenge Bank",
+                    "buy": 20,
+                    "sale": 25
+                },
+                {
+                    "exchange": "KZT",
+                    "bank": "Капиталбанк",
+                    "buy": 19,
+                    "sale": 24.5
+                },
+                {
+                    "exchange": "KZT",
+                    "bank": "Народный банк",
+                    "buy": 15,
+                    "sale": 25
+                },
+                {
+                    "exchange": "KZT",
+                    "bank": "НБУ",
+                    "buy": 10,
+                    "sale": 25
+                }
+            ]
+        }
+    ]
+}
