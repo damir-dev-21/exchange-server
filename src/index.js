@@ -7,7 +7,7 @@ const api = require('./routes/api')
 const app = express()
 
 app.use(cors({
-    origin: 'http://localhost:3000'
+    origin: 'http://94.103.83.34:3000'
 }))
 app.use(morgan("combined"))
 app.use(express.json())
