@@ -1,4 +1,6 @@
 const fs = require('fs')
+const bankDb = require('../models/Bank.mongo')
+
 
 function getResult(purchases, sales) {
     let banks = new Set()
@@ -79,14 +81,16 @@ const scraperObject = {
             date: new Date().toISOString().split('T')[0],
             results: getResult(purchases, sales)
         }
+        
+        await bankDb.insertMany(result)
 
-        let json = JSON.stringify(result)
+//         let json = JSON.stringify(result)
 
-        fs.writeFile('data/data.json', json, 'utf8', function (err) {
-            if (err) throw err;
-            console.log('Json file successed complete');
-            browser.close()
-        })
+//         fs.writeFile('data/data.json', json, 'utf8', function (err) {
+//             if (err) throw err;
+//             console.log('Json file successed complete');
+//             browser.close()
+//         })
 
 
     }
