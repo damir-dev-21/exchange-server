@@ -82,7 +82,7 @@ const scraperObject = {
             results: getResult(purchases, sales)
         }
         
-        //await bankDb.insertMany(result)
+        await bankDb.insertMany(result)
 
 //         let json = JSON.stringify(result)
 
