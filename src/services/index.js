@@ -21,7 +21,7 @@ function readAndSetData() {
 }
 
 function startScrap() {
-    const job = new NodeCron("20 20 * * *", function () {
+    const job = new NodeCron("30 18 * * *", function () {
         console.log(new Date());
         let browserInstance = browserObject.startBrowser()
         scrapperController(browserInstance)
