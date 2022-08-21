@@ -83,6 +83,7 @@ const scraperObject = {
         }
         
         await bankDb.insertMany(result)
+        console.log("Data added in db");
 
 //         let json = JSON.stringify(result)
 
