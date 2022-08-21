@@ -25,7 +25,7 @@ function startScrap() {
         console.log(new Date());
         let browserInstance = browserObject.startBrowser()
         scrapperController(browserInstance)
-        readAndSetData()
+        //readAndSetData()
     })
 
     job.start()
